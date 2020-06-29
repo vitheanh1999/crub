@@ -1,0 +1,22 @@
+[
+    
+    {   "id":1,
+        "name":"Vi Thế Anh",
+        "permission":"1"
+    },
+    { 
+        "id":2,
+        "name":"Hà Xuân Việt",
+        "permission":"1"
+    },
+    { 
+        "id":3,
+        "name":"Nguyễn Ngọc Sơn",
+        "permission":"2"
+    },
+    { 
+        "id":4,
+        "name":"Nguyễn Văn A",
+        "permission":"2"
+    }
+]
